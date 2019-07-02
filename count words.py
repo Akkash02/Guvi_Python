@@ -1,3 +1,3 @@
-test_string = input() 
-res = len(test_string.split()) 
-print (str(res)) 
+c= input() 
+print(len(c.split())) 
+
