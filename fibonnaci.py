@@ -1,7 +1,7 @@
-a=int(input())
-b,c=0,1
-print(c,end=" ")
-for i in range(1,a):
-  d=b+c
-  print(d,end=" ")
-  b,c=c,d
+m=int(input())
+n,o=0,1
+print(o,end=" ")
+for i in range(1,m):
+  p=n+o
+  print(p,end=" ")
+  n,o=o,p
