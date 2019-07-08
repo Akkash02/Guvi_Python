@@ -1,3 +1,3 @@
-a=int(input())
-for i in str(a):
+b=int(input())
+for i in str(b):
   print(i, end=" ")
