@@ -1,2 +1,2 @@
-n=input()
-print(len(n))
+countint=input()
+print(len(countint))
